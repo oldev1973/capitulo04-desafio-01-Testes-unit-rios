@@ -1,4 +1,4 @@
-# Chapter II - Challenge 1
+# Chapter IV - Challenge 1
 
 <h1 align="center">
     <img src="cover-node.js.png">
